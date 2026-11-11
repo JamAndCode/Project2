@@ -1,6 +1,6 @@
 VR CityScape
 
-This is a VR unity project made during my a game-development class, and explores VR interactions 
+This is a VR unity project made during a game-development class, and explores VR interactions 
 without traditional input methods (mouse/keyboard, controllers, etc.). Instead, interactions happen
 through gaze, where looking at intractable objects for a short-period of time acts similarly to 
 how clicking would traditionally.
